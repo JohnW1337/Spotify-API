@@ -1,4 +1,4 @@
 # Spotify-API
 
-Made by JohnW
-JohnW#1014
+Made by ~JohnW~
+JohnW#1014 
